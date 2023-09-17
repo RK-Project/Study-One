@@ -1,4 +1,4 @@
 # Study-One
-This is my first repository
-<pr>
+This is my first repository.
+<br>
 Author Rangabaj Khan
